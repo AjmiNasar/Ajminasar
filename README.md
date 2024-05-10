@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ajmi Nasar</h1>
-<h3 align="center">A passionate computer science engineering student from Kerala,India</h3>
+<h1 align="center">Hi👋,I'm Ajmi</h1>
+<h2 align="center">A web developer in making</h1>
+<h3 align="center"> ~one line of code at a time. 🚀 CS Engineering Student | Kerala, India 🌴 </h3>
 
 - 📫 **ajminas14@gmail.com**
 
