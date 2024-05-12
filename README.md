@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋,I'm Ajmi</h1>
-<h2 align="center"><i>A web developer in making</i></h2>
+<!-- <h2 align="center"><i>A web developer in making</i></h2> -->
 <h3 align="center"> ~🚀 CS Engineering Student | Kerala, India 🌴 </h3>
 
 - 📫 **ajminas14@gmail.com**
