@@ -2,6 +2,13 @@
 <h2 align="center"><i>A web developer in making</i></h2>
 <h3 align="center"> ~🚀 CS Engineering Student | Kerala, India 🌴 </h3>
 
+<h3>About Me ╰┈➤</h3>
+<ol>
+    <li>✅Proficient in frontend dev</li>
+    <li>🚀novice backend developer</li>
+    <li>💬Open to collaboration and discussions on technology and coding</li>
+</ol>
+
 - 📫 **ajminas14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
